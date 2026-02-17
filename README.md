@@ -194,14 +194,7 @@ That difference matters.
 
 🌐 Portfolio: https://sudheerdev.in  
 💼 LinkedIn: https://www.linkedin.com/in/venkata-sudheer-babu-nidamanuri-621b27265/ 
-📧 Email: nidamanurisudheer103@gmail.com  
-
----
-
-# ⚡ I Don’t Just Build Applications  
-# 🏗️ I Build Systems That Scale, Communicate, and Survive  
-  
-📧 Email: yourname@gmail.com  
+📧 Email: nidamanurisudheer103@gmail.com   
 
 ---
 
